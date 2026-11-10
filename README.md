@@ -4,6 +4,12 @@
 
 > **Disclaimer:** Meridian Trust Bank and its "AskMeridian" assistant are fictional. All people, numbers, and findings are made up for learning purposes.
 
+## Why I built this
+
+I wanted to learn how companies manage the risks of AI, so I created a fictional bank that's launching an AI chatbot and played the role of the GRC analyst checking it before launch. I used the NIST AI Risk Management Framework to find the risks, score them, and decide what controls the bank needs.
+
+GRC matters to me because it lets me help and protect people, which is something I've always wanted to do. When I was 11, I was diagnosed with cancer, and I beat it at 15. That experience showed me how much it means when people look out for you, and now I want to do the same for others.
+
 ---
 
 ## Scenario at a glance
